@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<html>
+ <head>
+  <title>Lukáš Pavelka - homepage</title>
+ </head>
+ <body>
+  <a href="ivt-profil" target="_self"><img src="fel.gif" alt="logo felu"></a>
+  <h1>Lukáš Pavelka</h1>
+  <p>Narodil jsem se v <a href="https://en.wikipedia.org/wiki/Pod%C4%9Bbrady" target="_blank">Poděbradech</a>,
+aktuálně žiji v <b>Říčanech</b> a studuji na <a href="http://www.fel.cvut.cz" target="_blank">Elektrofakultě ČVUT</a>.<br/>
+Mým oborem je Kybernernetika a robotika.</p>
+  <a href="nostrifikace" target="_self">Mé nostrifikační okruhy.</a>
+ </body>
+</html>
