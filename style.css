@@ -44,3 +44,9 @@ p.center{
   width: 50em;
   text-align: center;
 }
+ul.center{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50em;
+  text-align: left;
+}
